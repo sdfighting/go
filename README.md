@@ -2,6 +2,7 @@
 
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
+Go 是一个以快速创建简单，可靠，有效的软件的开源的程序语言
 
 ![Gopher image](doc/gopher/fiveyears.jpg)
 *Gopher image by [Renee French][rf], licensed under [Creative Commons 3.0 Attributions license][cc3-by].*
